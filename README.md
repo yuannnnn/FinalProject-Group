@@ -1,6 +1,6 @@
 # Final Project
 
-## Project structure 
+## Project Structure 
 * The Group-Proposal folder contains the project proposal.
 * The Final-Group-Project-Report folder contains the project report.
 * The Final-Group-Presentation folder contains the presentation slides.
