@@ -1,4 +1,4 @@
-# Final Project
+# Machine Learning II Final Project
 
 ## Project Structure 
 * The Group-Proposal folder contains the project proposal.
