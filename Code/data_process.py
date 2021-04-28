@@ -13,7 +13,7 @@ import os
 os.system("sudo pip install kaggle")
 os.environ['KAGGLE_USERNAME'] = "" # your username here
 os.environ['KAGGLE_KEY'] = "" # your key here
-kaggle competitions download -c whale-categorization-playground #down load data here
+! kaggle competitions download -c whale-categorization-playground #download data here
 
 import numpy as np
 import pandas as pd
